@@ -11,9 +11,7 @@ This personal website was created using Figma as the design tool and HTML CSS fo
 - Version Control: Git & Github
 - Deployment: Github, personal domain and Vercel
 
-## Figma
 
-Figma link <https://www.figma.com/design/S6wkej6BrqVL3hEHIsDwXW/muhammadrizkikurniaputra.com?node-id=21-2&t=IzKdfGEjdrvT6kFe-1>
 
 ## Features
 
